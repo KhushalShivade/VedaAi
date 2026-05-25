@@ -1,0 +1,35 @@
+# dependencies
+veda-ai/node_modules/
+veda-ai/.pnp
+veda-ai/.pnp.*
+veda-ai/.yarn/*
+
+# testing
+veda-ai/coverage/
+
+# next.js
+veda-ai/.next/
+veda-ai/out/
+
+# production
+veda-ai/build/
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# env files
+veda-ai/.env*
+
+# vercel
+veda-ai/.vercel/
+
+# typescript
+veda-ai/*.tsbuildinfo
+veda-ai/next-env.d.ts
